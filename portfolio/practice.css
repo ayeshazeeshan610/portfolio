@@ -1,0 +1,174 @@
+/* body{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTYtMDA3XzEuanBn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+*{
+    background-color: burlywood;
+    padding: 0%;
+    margin: 0%;
+}
+.navigation{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 4px 4px 6px 9px black;
+}
+.lists>ul{
+    display: flex;
+    gap: 40px;
+}
+.lists>ul>li{
+    list-style: none;
+    display: flex;
+    display: inline-block;
+
+}
+.button{
+    display: flex;
+    gap: 20px;
+    
+}
+.button>i{
+    
+    display:flex;
+    margin-left: 10px;
+}
+.home{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    
+}
+img{
+    border-radius: 50%;
+    display: flex;
+    box-shadow: 5px 5px 6px 6px black;
+    justify-content: cent
+   
+}
+.name{
+    margin-right: 70%;
+    margin-top: 10%;
+}
+
+.para{
+    display: flex;
+     margin-right: 70%;
+     
+}
+
+.intro{
+    display: flex;
+    margin-left: 70%;
+    text-align: center;
+    display: flex;
+    justify-content: end;
+    flex-direction: bold;
+   
+}
+.intro>h3{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.media>li{
+    display: flex;
+    justify-content: space-between;
+    gap: 40%;
+   background-color:burlywood;
+   color: white;
+   font-weight: bold;
+   padding: 15px;   
+
+}
+.media>ul>li{
+    list-style: none;
+    display: flex;
+    display: inline-block;
+}
+
+.btn{
+    display: flex;
+    justify-content: end;
+    margin-left: 85%;
+    margin-top: 5%;
+}
+.logo2{ 
+    display: flex;
+    gap: 15%;
+    margin-left: 85%;
+}
+.logo3{
+    margin: auto;
+
+}
+.logo3>ul{
+    display: flex;
+    gap: 10%;
+    text-align: center;
+   border: 3px solid burlywood ;
+   height: 30px;
+   margin: auto;
+   background-color: #C5416A;
+   color: #fff;
+   width: 50%;
+   border-width: 20px;
+}
+.logo4{
+    text-decoration: none;
+    justify-content: baseline;
+
+    
+}
+.logo3.ul>li{
+    margin-top: 10%;
+    display: inline-block;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.name2{
+    margin-top: 10%;
+    margin-right: 70%;
+
+}
+.imag2{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    justify-content: end;
+    margin-top: 30%;
+    margin-left: 50%;
+    gap: 9%;
+    
+}
+.imag2>i{
+    margin-left: 310%;
+
+}
+
+
+
+
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
